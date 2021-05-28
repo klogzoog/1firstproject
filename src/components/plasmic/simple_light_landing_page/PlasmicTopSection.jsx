@@ -54,7 +54,7 @@ function PlasmicTopSection__RenderFunc(props) {
                 sty.box__pjDj
               )}
             >
-              {"Make your wedsite"}
+              {"Make your weasddsite"}
             </div>
 
             <div
