@@ -1,0 +1,41 @@
+.root:global(.__wab_instance) {
+  position: relative;
+}
+.box__m6Mdw {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.box__m6Mdw > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.box__m6Mdw > :global(.__wab_flex-container) > *,
+.box__m6Mdw > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 8px;
+}
+.box__kgKx0 {
+  display: flex;
+  flex-direction: row;
+}
+.box___7Grvf {
+  display: flex;
+  position: relative;
+}
+.slotChildren {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: left;
+}
+.slotSlot {
+  text-align: left;
+}
+.svg__gQzI {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+}
